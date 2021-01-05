@@ -1,0 +1,108 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin:0;
+    background-image: url(images/latest-work-bg.png);
+ 
+	margin: 0 auto;
+   
+}
+
+section{
+    height:  500px;
+    padding-bottom: 10%;
+}
+#menu{
+    background:#4E4E4E;
+    height: 38px;
+
+  
+}
+#menu li{
+    display: inline;
+    float:left;
+    border-right:1px solid #605B5B;
+    border-left: 1px solid #2B2A2A;
+    
+}
+#menu li a{
+    text-decoration: none;
+    padding:10px 20px;
+    color:aliceblue;
+    background: #4E4E4E;
+    display:block;
+
+}
+
+
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 4%;
+    padding-left: 2%;
+    margin-top: 25px;
+    height: auto;
+   
+}
+    
+
+.half-width img{
+    width: 100%;
+    height:450px;
+}
+h1{
+    font-size: 50px;
+    color: #363958;
+}
+.color-highlight{
+    color:#FF8367;
+}
+h4{
+    color:dimgray;
+    padding-bottom: 40px;
+}
+.hire{
+    
+    padding: 10px 50px;
+    background-image:linear-gradient(45deg,#cc66ff, #ff6600);
+    padding:20px 50px;
+    color:white;
+    border-radius: 7%;
+    font-weight: 700px;
+}
+
+h2{
+    font-size:40px;
+    padding-bottom: 10px;
+    color: #363958;
+}
+p{
+    color:dimgray;
+    font-size:20px;
+    padding-bottom: 40px;
+}
+.color-highlight-2{
+    color:#ac3973;
+}
+.third-area{
+   background-color: whitesmoke;
+}
+.third-area h1{
+    text-align: center;
+}
+h3{
+    font-size: 25px;
+    color:#363958;
+}
+.project{
+    width:25%;
+    border: 2px solid red;
+    border-radius: 10%;
+    padding:1%;
+    background-color:white;
+}
+.project img{
+    width:100%;
+    height:30%;
+    border-radius: 12%;
+
+}
