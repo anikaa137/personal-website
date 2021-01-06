@@ -175,14 +175,23 @@ p{
 }
 footer{
     padding:5%;
-    padding-left:40%;
+   
     background-color:cadetblue;
 }
 .social-icon{
-    padding-bottom: 1%;
-    padding-left:3% ;
+
+    padding-left:43% ;
+    
 }
 #Contact h2{
     font-size: 40px;
     color:#550e31;
+    text-align: center;
 }
+.text p{
+    font-size: 18px;
+    padding-right:20px;
+    color:white;
+    text-align: center;
+}
+
