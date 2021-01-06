@@ -1,41 +1,31 @@
-
-
 body{
     font-family: 'Oswald', sans-serif;
     margin: 0;
-   
+    background-color: ivory;
 }
-
 section{
     height:  500px;
     padding-bottom: 10%;
-   
 }
 #menu{
     background:#4E4E4E;
     height: 38px;
     margin: 0;
      padding: 0;
-   
-  
 }
 #menu li{
     display: inline;
     float:left;
     border-right:1px solid #605B5B;
     border-left: 1px solid #2B2A2A;
-    
 }
 #menu li a{
     text-decoration: none;
     padding:10px 20px;
     color:aliceblue;
     background: #4E4E4E;
-    display:block;
-
+    display:block
 }
-
-
 .half-width{
     float: left;
     width: 40%;
@@ -43,10 +33,7 @@ section{
     padding-left: 2%;
     margin-top: 25px;
     height: auto;
-   
 }
-    
-
 .half-width img{
     width: 100%;
     height:450px;
@@ -55,6 +42,16 @@ h1{
     font-size: 50px;
     color: #363958;
 }
+h2{
+    font-size:40px;
+    padding-bottom: 10px;
+    color: #363958;
+}
+h3{
+    font-size: 25px;
+    color:#363958;
+    padding-bottom: 10px;
+}
 .color-highlight{
     color:#FF8367;
 }
@@ -62,28 +59,23 @@ h4{
     color:dimgray;
     padding-bottom: 40px;
 }
+.color-highlight-2{
+    color:#ac3973;
+}
 .hire{
-    
- 
     background-image:linear-gradient(45deg,#cc66ff, #ff6600);
     padding:20px 50px;
     color:white;
     border-radius: 7%;
     font-weight: 700px;
 }
-
-h2{
-    font-size:40px;
-    padding-bottom: 10px;
-    color: #363958;
-}
 p{
     color:dimgray;
     font-size:20px;
     padding-bottom: 40px;
 }
-.color-highlight-2{
-    color:#ac3973;
+#About{
+    background-color:cornsilk;
 }
 #Work{
    background-color:hsl(0, 0%, 96%);
@@ -92,12 +84,6 @@ p{
 }
 #Work h1{
     text-align: center;
-   
-}
-h3{
-    font-size: 25px;
-    color:#363958;
-    padding-bottom: 10px;
 }
 .project-collection{
     padding: 15px 15px;
@@ -111,7 +97,6 @@ h3{
     float: left;
     margin-left: 5%;
     box-shadow: 10px 10px 60px gray;;
-  
 }
 .project h3{
     font-size: 20px;
@@ -120,11 +105,9 @@ h3{
     width:100%;
     height:30%;
     border-radius: 12%;
-
 }
 .fourth-area{
     height: 300px;
-   
 }
 .chat{
     background-image: url(images/resize2.png);
@@ -133,19 +116,15 @@ h3{
     height: 100%;
     margin-left: 15%;
     margin-top: 7%;
-   
-
 }
 .chat h2{
     color: white;
     font-size: 40px;
     margin-left: 8%;
     padding-top: 3%;
-  
 }
 .chat a{
     margin-left: 50%;
-   
 }
 .inquiry{
  float: left;
@@ -157,7 +136,6 @@ h3{
     margin-top: 8%;
 }
 #Experience{
- 
     background-position:left;
     clear:both;
     padding-bottom:25px;
@@ -180,44 +158,32 @@ h3{
     border-image:linear-gradient(blue,cyan) ;
     border-image-slice: 1;
 }
-
-
 .social_media_icons {
     width:2%;
     height: 2%;
-  }
-  .icon img{
+}
+.icon img{
      width:35px;
      height: 35px;
-  }
-  .icon{
+}
+.icon{
       float: left;
       padding-left: 2%;
-  }
-  .last-area{
+}
+.last-area{
     background-color:teal;
-    margin-bottom:0px ;
-    
-  }
-
+    margin-bottom:0px;
+}
 footer{
     padding:5%;
     padding-left:40%;
-    background-color:papayawhip
-
+    background-color:cadetblue;
 }
-.contact{
-    padding-bottom: 2%;
+.social-icon{
+    padding-bottom: 1%;
     padding-left:3% ;
 }
-
-
-.gmail{
-    font-weight: 700;
-    font-size: 20px;
-    margin-bottom:2px;
-    text-decoration: none;
-   margin-top: 3px;
-   color:maroon;
-
+#Contact h2{
+    font-size: 40px;
+    color:#550e31;
 }
