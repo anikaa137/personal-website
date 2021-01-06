@@ -116,22 +116,19 @@ p{
     width: 90%;
     height: 100%;
     margin-left:10%;
-    margin-top: 15%;
+    margin-top: 8%;
 }
 .chat h2{
     color: white;
-    font-size: 40px;
+    font-size: 30px;
     margin-left: 8%;
-    padding-top: 3%;
-}
-.chat a{
-    margin-left: 50%;
+    padding-top: 8%;
 }
 .inquiry{
  float: left;
  width: 30%;
  margin-top: 3%;
- margin-right:3%;
+ margin-right:20%;
 }
 .button{
     margin-top: 8%;
