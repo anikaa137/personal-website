@@ -85,12 +85,12 @@ p{
 .color-highlight-2{
     color:#ac3973;
 }
-.third-area{
+#Work{
    background-color:hsl(0, 0%, 96%);
     margin-top: 39px;
     clear: both;
 }
-.third-area h1{
+#Work h1{
     text-align: center;
    
 }
@@ -156,7 +156,7 @@ h3{
 .button{
     margin-top: 8%;
 }
-.experience-area{
+#Experience{
  
     background-position:left;
     clear:both;
