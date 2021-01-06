@@ -62,7 +62,7 @@ h4{
 }
 .hire{
     
-    padding: 10px 50px;
+ 
     background-image:linear-gradient(45deg,#cc66ff, #ff6600);
     padding:20px 50px;
     color:white;
@@ -84,25 +84,95 @@ p{
     color:#ac3973;
 }
 .third-area{
-   background-color: whitesmoke;
+   background-color:hsl(0, 0%, 96%);
+    margin-top: 39px;
+    clear: both;
 }
 .third-area h1{
     text-align: center;
+   
 }
 h3{
     font-size: 25px;
     color:#363958;
+    padding-bottom: 10px;
 }
 .project{
     width:25%;
-    border: 2px solid red;
+    border: 2px solid white;
     border-radius: 10%;
     padding:1%;
     background-color:white;
+    float: left;
+    margin-left: 5%;
+    box-shadow: 10px 10px 60px gray;;
+  
 }
 .project img{
     width:100%;
     height:30%;
     border-radius: 12%;
 
+}
+.fourth-area{
+    height: 300px;
+}
+.chat{
+    background-image: url(images/resize2.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    margin-left:15%;
+    margin-top: 7%;
+    
+
+}
+.chat h2{
+    color: white;
+    font-size: 40px;
+    margin-left: 8%;
+    padding-top: 3%;
+    margin-top: 10%;
+  
+}
+.chat a{
+    margin-left: 50%;
+   
+}
+.inquiry{
+ float: left;
+ width: 30%;
+ margin-top: 3%;
+ margin-left:3%;
+}
+.button{
+    margin-top: 8%;
+}
+
+.instagram {
+    width:2%;
+    height: 2%;
+  }
+  .icon img{
+     width:35px;
+     height: 35px;
+  }
+  .icon{
+      float: left;
+      padding-left: 2%;
+  }
+.footer{
+    padding-left:40%;
+}
+.last-area{
+    background-color:teal;
+  margin-bottom:0px ;
+}
+footer p{
+    font-size: 18px;
+    margin-bottom: 0;
+}
+footer h3{
+    margin-top:0;
+    padding-right: 5%;
 }
